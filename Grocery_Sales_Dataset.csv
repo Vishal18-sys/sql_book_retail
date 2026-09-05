@@ -1,0 +1,89 @@
+Order_ID,date,Customer_Name,Product,Category,Quantity,Unit_Price,Payment_Mode
+ORD1000,21-01-2024,Priya Sharma,Chips,Snacks,1,316.19,Cash
+ORD1001,29-01-2024,Rahul Verma,Potatoes,Vegetables,4,188.42,Debit Card
+ORD1002,26-01-2024,Priya Sharma,Sugar,Essentials,2,438.36,UPI
+ORD1003,26-01-2024,Priya Sharma,Coffee,Beverages,4,61.32,Credit Card
+ORD1004,30-01-2024,Vikas Yadav,Butter,Dairy,2,353.5,Debit Card
+ORD1005,25-01-2024,Amit Kumar,Rice,Grains,4,130.36,Debit Card
+ORD1006,23-01-2024,Neha Singh,Olive Oil,Oils,4,284.15,Credit Card
+ORD1007,18-01-2024,Anjali Mishra,Sugar,Essentials,3,428.55,UPI
+ORD1008,03-01-2024,Ritu Patel,Onions,Vegetables,4,168.83,Debit Card
+ORD1009,17-01-2024,Amit Kumar,Bananas,Fruits,1,394.82,UPI
+ORD1010,30-01-2024,Amit Kumar,Coffee,Beverages,2,419.17,Debit Card
+ORD1011,01-01-2024,Ritu Patel,Rice,Grains,1,128.65,Net Banking
+ORD1012,24-01-2024,Deepak Rao,Milk,Dairy,2,291.33,Net Banking
+ORD1013,30-01-2024,Neha Singh,Tomatoes,Vegetables,4,463.93,UPI
+ORD1014,15-01-2024,Vikas Yadav,Butter,Dairy,1,271.53,Net Banking
+ORD1015,01-01-2024,Suman Joshi,Rice,Grains,3,295.91,UPI
+ORD1016,15-01-2024,Ritu Patel,Potatoes,Vegetables,2,207.74,Net Banking
+ORD1017,14-01-2024,Ritu Patel,Eggs,Poultry,1,429.44,Credit Card
+ORD1018,17-01-2024,Deepak Rao,Salt,Essentials,5,293.22,UPI
+ORD1019,28-01-2024,Amit Kumar,Salt,Essentials,2,171,Credit Card
+ORD1020,05-01-2024,Rahul Verma,Biscuits,Snacks,3,423.75,Cash
+ORD1021,23-01-2024,Amit Kumar,Milk,Dairy,5,389.72,Credit Card
+ORD1022,07-01-2024,Deepak Rao,Salt,Essentials,1,280.43,Credit Card
+ORD1023,05-01-2024,Deepak Rao,Onions,Vegetables,1,296.54,Net Banking
+ORD1024,27-01-2024,Vikas Yadav,Tomatoes,Vegetables,2,338.07,Net Banking
+ORD1025,09-01-2024,Suman Joshi,Tea,Beverages,3,188.28,Credit Card
+ORD1026,09-01-2024,Manoj Mehta,Chips,Snacks,4,353.44,Credit Card
+ORD1027,03-01-2024,Manoj Mehta,Olive Oil,Oils,5,167.79,Cash
+ORD1028,16-01-2024,Vikas Yadav,Potatoes,Vegetables,2,398.08,Credit Card
+ORD1029,12-01-2024,Vikas Yadav,Rice,Grains,2,162.69,Cash
+ORD1030,29-01-2024,Suman Joshi,Chips,Snacks,3,494.76,Debit Card
+ORD1031,10-01-2024,Manoj Mehta,Toothpaste,Household,5,350.74,UPI
+ORD1032,05-01-2024,Ritu Patel,Detergent,Household,2,425.86,UPI
+ORD1033,12-01-2024,Rahul Verma,Chicken Breast,Poultry,3,88.95,Cash
+ORD1034,31-01-2024,Vikas Yadav,Olive Oil,Oils,2,399.89,Credit Card
+ORD1035,31-01-2024,Neha Singh,Sunflower Oil,Oils,2,382.48,Credit Card
+ORD1036,30-01-2024,Ritu Patel,Tea,Beverages,2,424.15,Net Banking
+ORD1037,15-01-2024,Manoj Mehta,Shampoo,Household,1,203.89,Net Banking
+ORD1038,27-01-2024,Deepak Rao,Rice,Grains,4,427.63,Cash
+ORD1039,11-01-2024,Manoj Mehta,Potatoes,Vegetables,1,270.25,Cash
+ORD1040,18-01-2024,Amit Kumar,Olive Oil,Oils,1,131.7,Net Banking
+ORD1041,27-01-2024,Deepak Rao,Tea,Beverages,5,217.45,Credit Card
+ORD1042,02-01-2024,Manoj Mehta,Olive Oil,Oils,2,409.42,Debit Card
+ORD1043,29-01-2024,Vikas Yadav,Chips,Snacks,3,158.59,Credit Card
+ORD1044,19-01-2024,Amit Kumar,Sugar,Essentials,1,260.03,Cash
+ORD1045,23-01-2024,Ritu Patel,Bananas,Fruits,5,316.81,UPI
+ORD1046,01-01-2024,Rahul Verma,Soap,Household,2,158.42,Cash
+ORD1047,11-01-2024,Suman Joshi,Salt,Essentials,4,357.4,Debit Card
+ORD1048,28-01-2024,Rahul Verma,Butter,Dairy,4,45.54,Cash
+ORD1049,27-01-2024,Manoj Mehta,Rice,Grains,1,330.68,UPI
+ORD1050,08-01-2024,Anjali Mishra,Detergent,Household,1,406.33,Net Banking
+ORD1051,24-01-2024,Anjali Mishra,Sugar,Essentials,2,449.69,UPI
+ORD1052,02-01-2024,Priya Sharma,Apples,Fruits,3,160.44,Debit Card
+ORD1053,10-01-2024,Rahul Verma,Detergent,Household,4,470.03,Credit Card
+ORD1054,19-01-2024,Ritu Patel,Sunflower Oil,Oils,5,125.36,Debit Card
+ORD1055,02-01-2024,Neha Singh,Bananas,Fruits,2,301.52,UPI
+ORD1056,26-01-2024,Neha Singh,Detergent,Household,5,489.71,Debit Card
+ORD1057,28-01-2024,Manoj Mehta,Bananas,Fruits,3,325.53,Net Banking
+ORD1058,15-01-2024,Priya Sharma,Chips,Snacks,4,341.2,Net Banking
+ORD1059,03-01-2024,Vikas Yadav,Bananas,Fruits,1,437.19,UPI
+ORD1060,30-01-2024,Neha Singh,Toothpaste,Household,1,490.31,Debit Card
+ORD1061,27-01-2024,Neha Singh,Chips,Snacks,2,269.16,UPI
+ORD1062,05-01-2024,Suman Joshi,Toothpaste,Household,1,214.61,Net Banking
+ORD1063,23-01-2024,Suman Joshi,Coffee,Beverages,5,318.23,Credit Card
+ORD1064,30-01-2024,Vikas Yadav,Milk,Dairy,3,319.45,Net Banking
+ORD1065,22-01-2024,Amit Kumar,Chips,Snacks,5,117.81,Credit Card
+ORD1066,27-01-2024,Deepak Rao,Chips,Snacks,3,345.56,Net Banking
+ORD1067,12-01-2024,Deepak Rao,Sunflower Oil,Oils,1,162.28,Net Banking
+ORD1068,06-01-2024,Suman Joshi,Apples,Fruits,1,406.36,Cash
+ORD1069,11-01-2024,Anjali Mishra,Tomatoes,Vegetables,4,149,Net Banking
+ORD1070,23-01-2024,Suman Joshi,Apples,Fruits,4,372.41,Debit Card
+ORD1071,27-01-2024,Suman Joshi,Salt,Essentials,2,278.78,Cash
+ORD1072,27-01-2024,Amit Kumar,Onions,Vegetables,5,85.7,Net Banking
+ORD1073,14-01-2024,Neha Singh,Sugar,Essentials,2,103.24,UPI
+ORD1074,12-01-2024,Priya Sharma,Olive Oil,Oils,3,482.13,Credit Card
+ORD1075,20-01-2024,Rahul Verma,Salt,Essentials,1,325.64,Net Banking
+ORD1076,01-01-2024,Amit Kumar,Milk,Dairy,2,379.88,Debit Card
+ORD1077,13-01-2024,Vikas Yadav,Coffee,Beverages,2,328.63,Debit Card
+ORD1078,13-01-2024,Manoj Mehta,Rice,Grains,4,74.52,Cash
+ORD1079,07-01-2024,Suman Joshi,Coffee,Beverages,5,403.6,Credit Card
+ORD1080,29-01-2024,Priya Sharma,Bananas,Fruits,5,461.61,Cash
+ORD1081,19-01-2024,Priya Sharma,Chips,Snacks,2,174.67,Credit Card
+ORD1082,06-01-2024,Manoj Mehta,Coffee,Beverages,1,136.6,UPI
+ORD1083,09-01-2024,Manoj Mehta,Shampoo,Household,4,257.96,Net Banking
+ORD1084,01-01-2024,Priya Sharma,Chicken Breast,Poultry,5,216.57,UPI
+ORD1085,03-01-2024,Priya Sharma,Tomatoes,Vegetables,3,494.57,Net Banking
+ORD1086,18-01-2024,Amit Kumar,Coffee,Beverages,3,21.4,Cash
+ORD1087,26-01-2024,Anjali Mishra,Olive Oil,Oils,5,377.56,Net Banking
